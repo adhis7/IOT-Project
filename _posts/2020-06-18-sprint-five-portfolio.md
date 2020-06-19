@@ -40,11 +40,11 @@ lots of time and try to give
  <br>
  I test using like clause: 
 - SELECT * FROM `data` WHERE dev_id='noise01' and time like '2020-06-04%'
-<img src="{{site.baseurl}}/Images/payload_data.04.JPG" width="1500" height="600">
+<img src="{{site.baseurl}}/Images/Payload_data.04.JPG" width="1500" height="600">
  <br>
  <h4><i>figure: payload data in numeric format. </i></h4>
  <br>
- <img src="{{site.baseurl}}/Images/payload_data.18.JPG" width="1500" height="600">
+ <img src="{{site.baseurl}}/Images/Payload_data.18.JPG" width="1500" height="600">
   <br>
   <h4><i>figure: payload data in base_64 format. </i></h4>
   <br>
