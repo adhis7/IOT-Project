@@ -36,7 +36,7 @@ lots of time and try to give
  <br>
  <p>while I am testing Kevin data on things database under data table I found two types of data in there in payload colum
  some data are seen in numeric format where some are in base_64 format. So it might be affect on the output. 
- I saw last data are base on base_64 so i convert payload data into base_64 to intger format.</p>
+ I saw last data are base on base_64 so i convert payload data into base_64 to integer format.</p>
  <br>
  I test using like clause: 
 - SELECT * FROM `data` WHERE dev_id='noise01' and time like '2020-06-04%'
