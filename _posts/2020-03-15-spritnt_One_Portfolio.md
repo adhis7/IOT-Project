@@ -8,7 +8,7 @@ categories: jekyll update
 <h1>Sprint 1</h1>
 <h3>Temperature and Humidity Sensor</h3>
 <p> I had installed all library function</p>
-<img src="/images/libraries.jpg" width="600" height="300">
+<img src="{{ site.baseurl }}/images/libraries.jpg" width="600" height="300">
 <h4><i>figure: libraries of Room Sensor</i></h4>
 
 
