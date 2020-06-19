@@ -24,13 +24,13 @@ as well as deploy it on Dev Server.</p>
 <P>In this task I had face permission denied problem finally I shut out this problem. 
 lots of time and try to give
  permission  lots of Problem. </P>
- <img src="/{{site.baseurl}}/Images/permision denie error.PNG" width="1500" height="600">
+ <img src="{{site.baseurl}}/Images/permision denie error.PNG" width="1500" height="600">
   <br>
   <h4><i>figure: permision denie error. </i></h4>
   <br>
  <p>After fix this problem I had get proxy problem in the time of deployment. while fixed that problem 
  Noise Graph Web App is able to run on Dev Server. Finally, it looks like this till today (date: 2020-06-18).</p>
- <img src="/{{site.baseurl}}/Images/server_output.JPG" width="1500" height="600">
+ <img src="{{site.baseurl}}/Images/server_output.JPG" width="1500" height="600">
  <br>
  <h4><i>figure: output of Noise Graph from Dev Server. </i></h4>
  <br>
@@ -40,11 +40,11 @@ lots of time and try to give
  <br>
  I test using like clause: 
 - SELECT * FROM `data` WHERE dev_id='noise01' and time like '2020-06-04%'
-<img src="/{{site.baseurl}}/Images/payload_data.04.JPG" width="1500" height="600">
+<img src="{{site.baseurl}}/Images/payload_data.04.JPG" width="1500" height="600">
  <br>
  <h4><i>figure: payload data in numeric format. </i></h4>
  <br>
- <img src="/{{site.baseurl}}/Images/payload_data.18.JPG" width="1500" height="600">
+ <img src="{{site.baseurl}}/Images/payload_data.18.JPG" width="1500" height="600">
   <br>
   <h4><i>figure: payload data in base_64 format. </i></h4>
   <br>

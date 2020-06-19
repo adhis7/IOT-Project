@@ -22,12 +22,12 @@ categories: jekyll update
 <P>Now, I am a bit familiar with the Internet of Things equipment. I come to know how the device relates to the TTN server, how it works. </P>
 <h1>Final Output</h1>
 Finally it looks like this.<br>
-<img src="/{{site.baseurl}}/Images/Roomsensor.JPG" width="300" height="300">
+<img src="{{site.baseurl}}/Images/Roomsensor.JPG" width="300" height="300">
 <br>
 <h4><i>figure: Physical Layout of Room Sensor</i></h4>
 <br>
 <p></p>
-<img src="/{{site.baseurl}}/Images/serial monitor.PNG" width="300" height="300">
+<img src="{{site.baseurl}}/Images/serial monitor.PNG" width="300" height="300">
 <br>
 <h4><i>figure: Output of Room Sensor</i></h4>
 <br>
