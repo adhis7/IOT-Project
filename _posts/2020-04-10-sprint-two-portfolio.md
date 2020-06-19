@@ -24,6 +24,6 @@ categories: jekyll update
 <h1>Final Output</h1>
 Finally, I am merge Noise graph web app on<a href="https://gitlab.com/iotop/polykids-project/"> PolyKids repository</a>
 under NoiseGraph_Code. If we run it looks like this.<br>
-<img src="{{site.baseurl}}/Images/localNoisegraph1.jpg.PNG" width="1100" height="500">
+<img src="{{site.baseurl}}/Images/localNoisegraph1.jpg.png" width="1100" height="500">
 <h4><i>figure: Noise Graph </i></h4>
 <br>

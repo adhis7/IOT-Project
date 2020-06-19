@@ -24,7 +24,7 @@ as well as deploy it on Dev Server.</p>
 <P>In this task I had face permission denied problem finally I shut out this problem. 
 lots of time and try to give
  permission  lots of Problem. </P>
- <img src="{{site.baseurl}}/Images/permision denie error.PNG" width="1500" height="600">
+ <img src="{{site.baseurl}}/Images/permision denie error.png" width="1500" height="600">
   <br>
   <h4><i>figure: permision denie error. </i></h4>
   <br>
