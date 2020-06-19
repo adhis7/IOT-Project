@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Sprint One!"
+title:  "Sprint 1 Task"
 date:   2020-05-15 21:43:20 +1200
 categories: jekyll update
 ---
+
 <h1>Sprint 1</h1>
 <h3>Temprature and Humidity Sensor</h3>
 <p> I had installed all library function</p>
-<img>
+<img src="/images/libraries.jpg" width="600" height="300">
+<h4><i>figure: libraries of Room Sensor</i></h4>
 
-</img>
 
 <p>I can able to add pin as well as the antenna in Feather M0 board by soldering. </p>
 <h1> Problem I Face</h1>
@@ -19,3 +20,15 @@ categories: jekyll update
     Furthermore, I had face problems connecting a device to the TTN server.</p>
 <h1>What I Learn</h1>
 <P>Now, I am a bit familiar with the Internet of Things equipment. I come to know how the device relates to the TTN server, how it works. </P>
+<h1>Final Output</h1>
+Finally it looks like this.<br>
+<img src="/images/Roomsensor.jpg" width="300" height="300">
+<br>
+<h4><i>figure: Physical Layout of Room Sensor</i></h4>
+<br>
+<p></p>
+<img src="/images/serial monitor.PNG" width="300" height="300">
+<br>
+<h4><i>figure: Output of Room Sensor</i></h4>
+<br>
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Sprint 3 Task"
+date:   2020-05-15 21:43:20 +1200
+categories: jekyll update
+---
+
+<h2>Login Bug fix</h2>
+<p> In this task, The Heatmap web application is already build in but the initial assumption is that assumption login function is not working propery, So I need to fix it. Luckly, login function is working properly at the end.  </p>
+<h2>Problem I Face</h2>
+<P>While doing this task, it is difficult for me to setup the environment of heatmap web app in pycham interperetor becouse I had never done such type of task. And it is difficult to read understand all the code so i split login code and try to fix check it in by initizing new web app and copy and past previous heatmap code and try to fix login bug. At that time i had create a superuser as well as their password from command line  and generate a token using postman application. At that time it works and the login fuction works perfectly new web project without changing orginal code. Here in new web app I had only create new superuser name and password only than I want to try create new superuser from command line in orginal heatmap web app. Finally my supervisor told me that it work perfectly nothing bug in the system now only need to update documentation. And, Bex told me i will update documentation and she update documentation of that project. At last we shutout our misunderstandingness on this task.  </p>
+<h2>What I learn</h2>
+<p>I came to know how token key is generate and implement in a system a super admin.  
+
