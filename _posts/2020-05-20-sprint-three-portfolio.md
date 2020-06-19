@@ -12,16 +12,16 @@ categories: jekyll update
 <h1>What I learn</h1>
 <p>I came to know how token key is generate and implement in a system a super admin.  
 
-<h1>Some evidence of images are below:</h1>
+<h1>Some evidence of {{site.baseurl}}/Images are below:</h1>
 <p>The given below figure was successfully generate a token if 
 given super username and password is valid. I had generate this token becouse I don't know username and password. And I 
 test it by same orginal code I found it was working correctly. <br>
-<img src="/images/MicrosoftTeams-image (1).png" width="1500" height="600">
+<img src="/{{site.baseurl}}/Images/MicrosoftTeams-image (1).PNG" width="1500" height="600">
 <br>
 <h4><i>figure: token generating successfully </i></h4>
 <br>
 <p> If given superuser name and password is invalid it will not generate user token.</p>
-<img src="/images/MicrosoftTeams-image.png" width="1500" height="600">
+<img src="/{{site.baseurl}}/Images/MicrosoftTeams-image.PNG" width="1500" height="600">
 <br>
 <h4><i>figure: fail to generate token </i></h4>
 <br>
